@@ -1,11 +1,11 @@
-Package: lab08aSimpleRpackage
+Package: 2021_group_21_SimpleRpackage
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Some basic functions
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
+Author: group 21
+Maintainer: <s202675@student.dtu.dk>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+License: GLP-3
 Encoding: UTF-8
 LazyData: true
