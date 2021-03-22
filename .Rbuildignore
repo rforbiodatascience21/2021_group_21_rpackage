@@ -1,2 +1,5 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^2021_group_21_SimpleRpackage\.Rcheck$
+^2021_group_21_SimpleRpackage.*\.tar\.gz$
+^2021_group_21_SimpleRpackage.*\.tgz$

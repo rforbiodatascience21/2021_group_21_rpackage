@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+Group21Package.Rcheck/
+Group21Package*.tar.gz
+Group21Package*.tgz
