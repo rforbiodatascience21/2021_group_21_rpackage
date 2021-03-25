@@ -1,3 +1,5 @@
 exportPattern("^[[:alpha:]]+")
 
 export(random_dna)
+export(mk_codons)
+export(dna_codons_to_aa)
