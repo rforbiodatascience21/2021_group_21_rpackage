@@ -11,3 +11,4 @@ Translates codons into aminoacids when you input a codon. Output: an aminoacid.
 dna_codons_to_aa(TTT) #you would get F
 }
 
+
